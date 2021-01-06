@@ -1,10 +1,13 @@
 h1{
     font: 100px;
     font-family: sans-serif;
-
 }
 h4{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    color: tomato;
+    font-family: sans-serif;
 }
 .name-highlight{
     color: orange;
